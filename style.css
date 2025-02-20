@@ -1,7 +1,7 @@
 body {
 
 
-    background-image: url('resimler/1003880.png');
+    background-image: url('resimler/Konak.jpg');
     background-size: cover;
 
     font-family: Arial, sans-serif;
@@ -17,7 +17,7 @@ body {
 }
 
 .container {
-    background: rgba(255, 255, 255, 0.1);
+    background: rgba(196, 75, 10, 0.212);
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(255, 255, 255, 0.2);
